@@ -9,8 +9,6 @@
   <img align="center" alt="Mykael-Java" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Mykael-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mykael-Kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Mykael-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mykael-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mykael-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Mykael-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="Mykael-VScode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -23,8 +21,9 @@
 
 Sobre mim:
 - 🔭 Atualmente curso Sistemas de Informação na Universidade Federal da Paraíba (UPFB);
-- 🔎 Preferência por back-end
 - 🌱 Comecei a programar com Python, estou me aprofundando em java e estudando kotlin;
+- 🕰️ Já programei em linguagens web, como HTML, CSS e JS;
+- 🔎 Preferência por back-end
 - 💬 Aberto para projetos;
-- 📫 Contato pelo email profissional <br>
+- 📫 Contato pelo email profissional.
 
