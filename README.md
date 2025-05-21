@@ -1,4 +1,4 @@
-## Olá, Seja bem vindo(a)! 😊👋
+## Olá, Seja bem vindo(a) ao meu GitHub!
 
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykaelbruno&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,14 +23,10 @@
 **mykaelbruno/mykaelbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sobre mim:
+- 🔭 Atualmente curso Sistemas de Informação na Universidade Federal da Paraíba (UPFB);
+- 🌱 Tenho preferência por back-end e atualmente estou me aprofundando em java;
+- 🔎 Comecei a programar com Python, que é uma das minhas linguágens atuais;
+- 💬 Aberto para projetos;
+- 📫 Contato pelo email profissional <br>
 
