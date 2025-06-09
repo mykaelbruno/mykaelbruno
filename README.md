@@ -20,7 +20,7 @@
 -->
 
 Sobre mim:
-- 🔭 Atualmente curso Sistemas de Informação na Universidade Federal da Paraíba (UPFB);
+- 🔭 Atualmente curso <b>Sistemas de Informação</b> na Universidade Federal da Paraíba (UPFB);
 - 🌱 Comecei a programar com Python, estou me aprofundando em java e estudando kotlin;
 - 🕰️ Já programei em linguagens web, como HTML, CSS e JS;
 - 🔎 Preferência por back-end
